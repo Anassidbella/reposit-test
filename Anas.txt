@@ -1,0 +1,17 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 123C-667A
+
+ R‚pertoire de C:\ateliers\app1
+
+17/03/2024  22:44    <DIR>          .
+17/03/2024  22:44    <DIR>          ..
+17/03/2024  22:44                 0 Anas.txt
+17/03/2024  22:33                11 dev1.txt
+17/03/2024  22:41               425 f10.txt
+17/03/2024  22:32                18 f11.txt
+17/03/2024  21:45               453 f2.txt
+17/03/2024  22:33               497 f3.txt
+17/03/2024  22:33               365 fichier1.txt
+17/03/2024  22:06                14 README.md
+               8 fichier(s)            1.783 octets
+               2 R‚p(s)   6.736.441.344 octets libres
